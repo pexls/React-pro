@@ -1,0 +1,16 @@
+.header-content{
+    min-height: 78vh;
+    background: linear-gradient(rgba(92, 92, 92, 0.4), rgba(70, 70, 70, 0.6)), url("../../images/pexels-photo-694740.jpeg") bottom/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+    color: #f3f3f3;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+
+}
